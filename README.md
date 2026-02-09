@@ -197,11 +197,7 @@ Making it **enterprise-grade and production-ready**.
 
 ---
 
-If you want next level improvement, I can:
-
-* Add sample `api_client.py` code
-* Add `conftest.py` example
-* Add logging implementation
+## 🚀 Next Steps
 * Add CI/CD (GitHub Actions / Jenkins pipeline)
 * Convert this into Product-Based Company level framework
 
